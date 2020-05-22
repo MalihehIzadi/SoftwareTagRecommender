@@ -1,9 +1,9 @@
 # Software Tag Recommender
-This repository contains all our exploration on the use of machine learning methods to automatically recommend tags for softaware repositories.
+This repository contains all our exploration on the use of machine learning methods to automatically recommend tags for software repositories.
 
 It currently contains the following projects:
 <ul>
-  <li><p><code>data-prepration</code>: Our scripts for pre-processing the data.</p></li>
+  <li><p><code>data-preparation</code>: Our scripts for pre-processing the data.</p></li>
   <li><p><code>machine-learning</code>: Our python scripts for training various machine-learning-based algorithms.</p></li>
 </ul>
 

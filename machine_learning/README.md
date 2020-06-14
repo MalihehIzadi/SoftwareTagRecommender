@@ -17,4 +17,4 @@ We also have transformers-based models. We use the following pre-trained models 
 5. XLM by Facebook AI,
 6. XLNet by CMU and Google AI Brain,
 
-Furthermore, `multihot_encoded_conversion.ipynb` script converts the list of labels for the data points (repositories) to a multi-hot encoded matrix with the length of labels (tags) in the dataset to prepare for classification.
+Furthermore, `multihot_encoded_conversion.ipynb` script converts the list of labels for each data point (repository) to a multi-hot encoded list with the length of labels (tags) in the dataset to prepare for classification.

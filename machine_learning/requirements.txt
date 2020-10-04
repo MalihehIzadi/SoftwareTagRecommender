@@ -1,0 +1,10 @@
+click
+pandas
+sklearn
+fasttext
+numpy
+scipy
+gensim
+scikit-multilearn
+tqdm
+simpletransformers

@@ -5,5 +5,5 @@ the file `subtopics_dataset.csv` contains the final data of featured tags, alias
 We provide 29K unique sub-topics for the set of featured tags of Github. 
 We were able to cover 16K repositories with these sub-topics.
 
-Also, the size of the dataset containing repositories and tags is around 8GB. 
-If interested, please send an email to malih.izadi [at] gmail [dot] com to obtain a copy.
+To get access to our sub-topics and repositories datasets, 
+please contact m.izadi [at] tudelft.nl.

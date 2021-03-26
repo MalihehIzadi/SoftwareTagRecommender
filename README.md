@@ -9,9 +9,10 @@ It currently contains the following folders:
 </ul>
 
 ## Paper and appendix
-The paper can be found on ArXiv: <a href="http://add_url">link</a>
+The paper can be found on <a href="https://arxiv.org/abs/2010.09116">ArXiv</a>.
+To work with our online tool, please visit our<a href="repologue.com">website</a>.
 <!--<ul>
-    <li>The paper can be found here: <a href="http://add_url">link</a>.</li>
+    <li>The paper can be found here: <a href="https://arxiv.org/abs/2010.09116">link</a>.</li>
     <li>The raw dataset can be found here: <a href="http://add_url">link</a>.</li>
     <li>The appendix with our full results can be found here: <a href="http://add_url">link</a>.</li>
 </ul-->

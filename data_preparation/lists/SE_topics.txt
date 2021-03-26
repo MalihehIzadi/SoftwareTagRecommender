@@ -1,0 +1,6 @@
+topics_list = {'objective-c': 'objectivec', 
+			'c++': 'cplusplus', 'c-plus-plus': 'cplusplus', 
+            'c#': 'csharp', 'c-sharp': 'csharp', 
+			'f#': 'fsharp', 'f-sharp': 'fsharp', 
+            'asp.net': 'aspnet', 'asp-net': 'aspnet', 
+			'.net': 'dotnet', 'dot-net': 'dotnet'}

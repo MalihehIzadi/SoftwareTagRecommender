@@ -1,0 +1,11 @@
+dates_list = {'january': 'datereplaced','february': 'datereplaced','march': 'datereplaced',
+              'april': 'datereplaced','june': 'datereplaced','july': 'datereplaced','august': 'datereplaced',
+              'september': 'datereplaced','october': 'datereplaced','november': 'datereplaced','december': 'datereplaced',
+              'tuesday':'dayreplaced', 'wednesday':'dayreplaced', 'thursday':'dayreplaced',
+              'friday':'dayreplaced', 'saturday':'day', 'sunday':'dayreplaced', 'monday':'dayreplaced',
+              'afternoon':'timereplaced', 'tonight':'timereplaced', 'night':'timereplaced', 'morning': 'timereplaced',
+              'tomorrow': 'timereplaced',"o'clock": 'timereplaced'}
+
+
+
+

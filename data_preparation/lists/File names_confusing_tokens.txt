@@ -1,0 +1,40 @@
+# remove repetitive but confusing words from directories (confusing with tokens in readme, wiki, etc.)
+
+dir_common_list = ['readme','md','changelog', 'main', 'body','gitignore', 'model', 'view','namespace',\
+                   'application','app', 'library', 'lib','api', 'tool', 'version', 'framework', 'interface',                  
+                   'package', 'service', 'project','proj', 'plugin','extension', 'module', 'widget',
+                   'dashboard','console','collection','web', 'pack', 'min', 
+                   'unit','utils','util', 'utility','manifest', 'device', 'mipmap','folder','program', 'section', \
+                   'index','status','core','scheme', 'schema', 'automatic', 'constructs', 'construction', 'construct',\
+                   'workspace',  'component',  'release', 'container','environment', \
+                   'activity','code-of-conduct', 'code', 'contributing', 'contribution','conduct', \
+                   'requirement',  'source', 'src','resource', 'support', 'default','license','home','root', \
+                   'test', 'linter','lint', 'demo','error','bug', 'exception', 'asset', 'parameter', 'param',
+                   'argument', 'args','array','script','basic','list','job','history',
+                   'output', 'input','report','result','entry','todo', 'reference', 'comment', 'author', \
+                   'configuration', 'config','conf','setup', 'settings', 'specification', 'spec',
+                   'evaluation','eval','account','login', 'validator', 'dummy', 'benchmark', 'copy', \
+                   'system','class', 'function','func', 'method', 'properties','property', 'object','set', 'group',\
+                   'public', 'private','global', 'field','local', 'locale','static','constant', \
+                   'documentation','document','doc','information','info','example','sample','template','type','simple',\
+                   'file','format','png','jpg','jpeg','json','html','css','svg','xml', 'txt','gif','ttf', 
+                   'csv','zip', 'exe', 'jar', 'ipynb','bash', 'sh',
+                   'image','img','picture', 'base', 'window','logo', 'icon', 'ico', 'favicon','user', 'bin',\
+                   'builder','build', 'gradle', 'gradlew', 'gradlewrapper', 'wrapper','pom', 'dependency', 
+                   'yaml', 'yml','docker', 'yarn',
+                   'load', 'loading','loader','launcher', 'launch', 'helper','controller','control',                   
+                   'handler','manager', 'manage','initialize','init','adapter','starter', 'start','update','debug', 
+                   'provider', 'installer','install','command', 'check','action','implementation','implement','impl',
+                   'make', 'mk','show', 'save','open','close', 'writer','write', 'reader','read','buffer',
+                   'generator', 'generate','import','export','cleaner', 'clean', 'worker','factory',
+                   'runner','run','runtime','print','converter', 'remove','logger', 'logging','log',
+                   'editor', 'edit', 'creator', 'create', 'store', 'storage','delegate', 'parser', 'parse',
+                   'deploy', 'production', 'produce', 'prod', 'deploy', 'composer', 'compose','register', \
+                   'name','new', 'old', 'header', 'footer','custom','common','state','event', \
+                   'layout', 'background','theme','style','page','screenshot', 'snapshot','content',
+                   'form','font', 'tab', 'dialog', 'menu','multi','full', \
+                   'item','id', 'case', 'url','lock', 'generic','banner', 'preview','com']
+
+				   
+				   
+names_common_list = ['simple','project','proj','version','ver']
